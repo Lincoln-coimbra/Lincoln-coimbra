@@ -26,8 +26,8 @@ Seja muito bem-vindo(a) ao meu GitHub! Aqui compartilho meus projetos, estudos e
 
  Aqui você pode listar seus projetos favoritos com links e descrições curtas
 🔸 https://lincoln-coimbra.github.io/meuPortifolio
-    ProjetoAdvogado/ProjetoAdvogado
----
+[    ProjetoAdvogado/ProjetoAdvogado
+](https://github.com/Lincoln-coimbra/sitema_advogados/tree/051a2b67a5cea0cd0fa53c9f5ae3030f2e9259ee/ProjetoAdvogado/ProjetoAdvogado)---
 
 ## 📈 Estatísticas do GitHub
 
