@@ -24,8 +24,9 @@ Seja muito bem-vindo(a) ao meu GitHub! Aqui compartilho meus projetos, estudos e
 
 ## 📂 Projetos em Destaque
 
-🔸 *Em breve...* – Aqui você pode listar seus projetos favoritos com links e descrições curtas.
-
+ Aqui você pode listar seus projetos favoritos com links e descrições curtas
+🔸 https://lincoln-coimbra.github.io/meuPortifolio
+    ProjetoAdvogado/ProjetoAdvogado
 ---
 
 ## 📈 Estatísticas do GitHub
